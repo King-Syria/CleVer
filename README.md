@@ -1,5 +1,5 @@
 
-#welcome ! ... 
+# welcome !
 
 Bot clever works with the Ejabberd system
 
@@ -9,7 +9,7 @@ Linux x86_64 server Ubuntu up 14
 
 You must install the following programs:
 
-[apt-get install python 2]
+[ apt-get install python 2 ].
 
 pip2 install zope.interface==5.4.0
 
