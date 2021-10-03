@@ -13,25 +13,25 @@ welcome !
 ### install python 2.7
 
 ``` bash
-  $ apt-get install python 2
+  apt-get install python 2
 ```
 
 ### install zope.interface 5.4.0
 
 ``` bash
-  $ pip2 install zope.interface==5.4.0
+  pip2 install zope.interface==5.4.0
 ```
 
 ### install termcolor 1.1.0
 
 ``` bash
-  $ pip2 install termcolor==1.1.0
+  pip2 install termcolor==1.1.0
 ```
 
 ### install Twisted 13.0.0
 
 ``` bash
-  $ pip2 install Twisted==13.0.0
+  pip2 install Twisted==13.0.0
 ```
 
 ## Then modify the settings file:
@@ -121,4 +121,4 @@ king-syria@syriatalk.org (main account)
 
 ~ That's it, thank you
 
-# © By `KinG-SyRia`
+## © By `KinG-SyRia`
