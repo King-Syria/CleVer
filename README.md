@@ -1,5 +1,6 @@
+# CleVer Bot 
 
-# welcome !
+## welcome !
 
 Bot clever works with the Ejabberd system
 
