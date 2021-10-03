@@ -53,7 +53,7 @@ AdminBot = u'king-syria@service.com',u''
 
 
 ```
-Edit other.py
+* Edit other.py
 
 ``` python
 
