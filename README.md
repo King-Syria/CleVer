@@ -34,6 +34,12 @@ welcome !
   pip2 install Twisted==13.0.0
 ```
 
+### install requests
+
+``` bash
+  pip2 install requests
+```
+
 ## Then modify the settings file:
 
 * Edit a_settings.py
