@@ -123,7 +123,7 @@ Access_Comand_Private_ = 20
 
 ## For help, add:
 
-king-syria@syriatalk.org (main account)
+king-syria@syriatalk.org OR king_syria@syriatalk.info OR king-syria@syriatalk.me (main account)
 
 ~ That's it, thank you
 
