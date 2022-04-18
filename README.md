@@ -123,11 +123,14 @@ Access_Comand_Private_ = 20
 
 ## For help, add:
 
-## syriatalk.org : king-syria@syriatalk.org `(main account)`
+## syriatalk.org :
+king-syria@syriatalk.org `(main account)`
 
-## syriatalk.info : king_syria@syriatalk.info `(main account)`
+## syriatalk.info :
+king_syria@syriatalk.info `(main account)`
 
-## syriatalk.me : king-syria@syriatalk.me `(main account)`
+## syriatalk.me :
+king-syria@syriatalk.me `(main account)`
 
 ~ That's it, thank you
 
