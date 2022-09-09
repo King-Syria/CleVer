@@ -232,7 +232,7 @@ Xmsg = [
 king-syria@syriatalk.org `(main account)`
 
 ## syriatalk.info :
-king_syria@syriatalk.info `(main account)`
+king-syria@syriatalk.info `(main account)`
 
 ## syriatalk.me :
 king-syria@syriatalk.me `(main account)`
